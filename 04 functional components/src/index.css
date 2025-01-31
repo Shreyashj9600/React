@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading {
+  color: red;
+  text-align: center;
+  text-transform: capitalize;
+}
+.heading:hover{
+  color: blue;
+  transition: 1s;
+  cursor: pointer;
+}
